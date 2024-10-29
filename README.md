@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **C,C++,Node Js, DJango, Python, R, Machine Learning**
+- 💬 Ask me about **C, C++, C# .NET, Java, Javascript, Django, Python, R Programming, GO Lang**
 
 - 📫 How to reach me **swatigamit@gmail.com**
 
